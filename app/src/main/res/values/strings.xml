@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Touristan</string>
+    <string name="title_activity_maps">Touristan</string>
+    <string name="res">Restaurants</string>
+    <string name="tou">Tourist Spots</string>
+    <string name="hot">Hotels</string>
+    <string name="browser_key">AIzaSyCpMHXstpX5vfd00JbwJA1h2VPXIYa-yEE</string>
+</resources>

@@ -1,0 +1,9 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <application>
+        <activity
+            android:name="com.example.user.tracklocation.Data"
+            android:label="@string/title_activity_data"
+            android:theme="@style/AppTheme.NoActionBar"></activity>
+    </application>
+</manifest>
